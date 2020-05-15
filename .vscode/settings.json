@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "my_env/bin/python",
+    "typescript.tsdk": "",
+    "editor.codeActionsOnSave": null,
+    "vsicons.associations.fileDefault.file": {
+    
+    },
+    "typescript.disableAutomaticTypeAcquisition": true
+}
